@@ -1,8 +1,7 @@
 # Script générateur de code html pour Unicode Smiley
 
-<center>
 ![Unicode-Smiley.png](https://framapic.org/lfNZKIQvgxmk/TePKkyLW7D52.png)
-</center>
+
 
 *Conçu par Wargof | https://steemit.com/@wargofosef .*
 
