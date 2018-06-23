@@ -1,0 +1,20 @@
+html, body {
+  width: 350px;
+  text-align: center;
+  }
+  
+body {
+/*  background-color: #aeaeab; */
+  background-color: #ffffff;
+/*  color: white; */
+}
+.popup {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #E5F2F2;
+  cursor: pointer;
+  text-align: center;
+  }
+  
