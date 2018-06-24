@@ -1,4 +1,4 @@
-# Script générateur de code html pour Unicode Smiley
+# Script générateur de code html pour Unicode Smiley v2
 
 ![Unicode-Smiley.png](https://framapic.org/lfNZKIQvgxmk/TePKkyLW7D52.png)
 
