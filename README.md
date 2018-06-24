@@ -19,6 +19,10 @@ Liste de smiley supplémentaires : https://busy.org/@steemitguide/ultimate-guide
 Modification du script de génération du code HTML afin d'avoir 2 emot/code par ligne.
 Modification de l'affichage, les emoticones et leurs codes sont désormais 2 par lignes.
 
+#### Note de version : 0.2.1
+
+Correction des numéros de versions incorrect dans le code et le popup de la barre d'outils.
+
 ## Crédits 
 Dev' by Wargof | https://steemit.com/@wargof
 ![Wargof_96.png](https://ipfs.busy.org/ipfs/QmRD5CsaW1zzDkyCH6WpXKhY9L6XVk34bgtvFGZWv9oHSt)
